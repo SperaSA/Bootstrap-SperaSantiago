@@ -1,0 +1,105 @@
+.color-boton{
+    background-color: rgba(214, 170, 116, 0.815);
+
+}
+
+.btn:hover {
+    color: white;
+    background-color: rgb(81, 81, 241);
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+.row {
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 25px;
+
+}
+
+
+.card{
+    background-color: bisque;
+    margin: 20px;
+    height: 38vh;
+}
+
+.navbar{
+    padding: 1rem;
+}
+
+
+.collapse{
+    flex-direction: row-reverse;
+    font-size: large;
+    font-weight: bold;
+}
+
+.logo{
+    width: 90px;
+}
+
+.color-navbar{
+    background-color: rgba(245, 225, 200, 0.836);
+}
+
+.ancho {
+    width: 40vw;
+    margin: 0 auto;
+    height: 70vh;
+}
+
+.texto1{
+    justify-content: space-evenly;
+    width: 100%;
+    display: flex;
+    font-weight: bold;
+}
+
+.texto2{
+    justify-content: space-evenly;
+    width: 100%;
+    display: flex;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+.card-img-top{
+    padding-top: 10px;
+}
+
+.footer-style {
+    padding-top: 5px;
+    background-color: rgba(214, 170, 116, 0.815);
+    margin-top: 25px;
+}
+.footer {
+    color: rgb(17, 16, 16);
+
+}
+footer h3 {
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: rgba(214, 170, 116, 0.815);
+}
+footer .footer-col {
+  margin-bottom: 10px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: rgba(214, 170, 116, 0.815);
+}
+
+.instagram{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+
+}
+
+.foot{
+   display: flex;
+   justify-content: center;
+}
